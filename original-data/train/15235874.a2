@@ -1,0 +1,26 @@
+T9	DNA_methylation 0 11	Methylation
+T10	DNA_methylation 176 187	methylation
+T11	Entity 195 205	CpG island
+T12	DNA_methylation 506 517	methylation
+T13	Entity 537 556	5'-noncoding region
+T14	Entity 565 575	CpG island
+T15	Entity 705 715	CpG island
+T16	DNA_methylation 756 767	methylation
+T17	DNA_methylation 932 943	methylation
+T18	DNA_methylation 1297 1308	methylation
+T19	DNA_methylation 1461 1472	methylation
+T20	DNA_methylation 1548 1559	methylation
+T21	Entity 1579 1598	5'-noncoding region
+T22	Entity 1610 1620	CpG island
+T23	DNA_methylation 1631 1642	methylation
+E1	DNA_methylation:T9 Theme:T1
+E2	DNA_methylation:T10 Theme:T2 Site:T11
+E3	DNA_methylation:T12 Theme:T3 Site:T14
+E4	DNA_methylation:T12 Theme:T3 Site:T13
+E5	DNA_methylation:T16 Theme:T4 Site:T15
+E6	DNA_methylation:T17 Theme:T5
+E7	DNA_methylation:T18 Theme:T6
+E8	DNA_methylation:T19 Theme:T7
+E9	DNA_methylation:T20 Theme:T7 Site:T21
+E10	DNA_methylation:T20 Theme:T7 Site:T22
+E11	DNA_methylation:T23 Theme:T8

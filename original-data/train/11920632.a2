@@ -1,0 +1,27 @@
+*	Equiv T3 T2
+T12	Entity 0 8	Promoter
+T13	DNA_methylation 9 25	hypermethylation
+T14	Entity 258 273	190 bp sequence
+T15	DNA_methylation 274 284	methylated
+T16	DNA_methylation 592 608	hypermethylation
+T17	Entity 616 629	5' CpG island
+T18	DNA_methylation 990 1001	methylation
+T19	DNA_demethylation 1122 1135	demethylation
+T20	Entity 1143 1159	promoter regions
+T21	Entity 1251 1259	promoter
+T22	DNA_methylation 1260 1276	hypermethylation
+T23	DNA_methylation 1327 1338	methylation
+T24	Entity 1346 1359	5' CpG island
+T25	DNA_methylation 1411 1422	methylation
+T26	Entity 1499 1507	promoter
+T27	DNA_methylation 1508 1524	hypermethylation
+E1	DNA_methylation:T13 Theme:T1 Site:T12
+E2	DNA_methylation:T15 Theme:T3 Site:T14
+E3	DNA_methylation:T16 Theme:T5 Site:T17
+E4	DNA_methylation:T18 Theme:T7
+E5	DNA_demethylation:T19 Theme:T8 Site:T20
+E6	DNA_methylation:T22 Theme:T9 Site:T21
+E7	DNA_methylation:T23 Theme:T10 Site:T24
+E8	DNA_methylation:T25 Theme:T10 Site:T24
+M1	Negation E8
+E9	DNA_methylation:T27 Theme:T11 Site:T26

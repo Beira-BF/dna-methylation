@@ -1,0 +1,21 @@
+T10	Entity 0 13	5'-CpG island
+T11	DNA_methylation 14 25	methylation
+T12	Entity 236 249	5'-CpG island
+T13	DNA_methylation 250 261	methylation
+T14	Entity 356 369	5'-CpG island
+T15	DNA_methylation 370 381	methylation
+T16	Entity 630 643	5'-CpG island
+T17	DNA_methylation 644 655	methylation
+T18	Entity 718 731	5'-CpG island
+T19	DNA_methylation 732 743	methylation
+T20	Entity 1162 1175	5'-CpG island
+T21	DNA_methylation 1176 1187	methylation
+T22	Entity 1281 1294	5'-CpG island
+T23	DNA_methylation 1295 1306	methylation
+E1	DNA_methylation:T11 Theme:T1 Site:T10
+E2	DNA_methylation:T13 Theme:T3 Site:T12
+E3	DNA_methylation:T15 Theme:T4 Site:T14
+E4	DNA_methylation:T17 Theme:T5 Site:T16
+E5	DNA_methylation:T19 Theme:T6 Site:T18
+E6	DNA_methylation:T21 Theme:T7 Site:T20
+E7	DNA_methylation:T23 Theme:T9 Site:T22

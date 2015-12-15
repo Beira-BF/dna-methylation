@@ -1,0 +1,8 @@
+*	Equiv T7 T6
+T8	DNA_methylation 897 907	methylated
+T9	DNA_methylation 1014 1030	hypermethylation
+T10	DNA_methylation 1197 1207	methylated
+E1	DNA_methylation:T8 Theme:T1
+E2	DNA_methylation:T8 Theme:T2
+E3	DNA_methylation:T9 Theme:T3
+E4	DNA_methylation:T10 Theme:T7

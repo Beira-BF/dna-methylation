@@ -1,0 +1,18 @@
+T13	Entity 11 19	promoter
+T14	DNA_methylation 20 36	hypermethylation
+T15	Entity 817 830	gene promoter
+T16	DNA_methylation 831 847	hypermethylation
+T17	Entity 1086 1094	promoter
+T18	DNA_methylation 1095 1111	hypermethylation
+T19	Entity 1335 1343	Promoter
+T20	DNA_methylation 1344 1360	hypermethylation
+T21	Entity 1626 1634	promoter
+T22	DNA_methylation 1635 1651	hypermethylation
+T23	Entity 1819 1827	promoter
+T24	DNA_methylation 1828 1844	hypermethylation
+E1	DNA_methylation:T14 Theme:T1 Site:T13
+E2	DNA_methylation:T16 Theme:T6 Site:T15
+E3	DNA_methylation:T18 Theme:T8 Site:T17
+E4	DNA_methylation:T20 Theme:T9 Site:T19
+E5	DNA_methylation:T22 Theme:T10 Site:T21
+E6	DNA_methylation:T24 Theme:T12 Site:T23

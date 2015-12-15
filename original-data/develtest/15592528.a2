@@ -1,0 +1,17 @@
+*	Equiv T3 T2
+T14	DNA_methylation 559 570	methylation
+T15	DNA_methylation 929 945	hypermethylation
+T16	Entity 953 972	promoter CpG island
+T17	DNA_methylation 1114 1126	unmethylated
+T18	DNA_methylation 1140 1150	methylated
+T19	DNA_methylation 1229 1239	methylated
+T20	DNA_methylation 1257 1268	methylation
+T21	DNA_methylation 1712 1735	epigenetic inactivation
+E1	DNA_methylation:T14 Theme:T4
+E2	DNA_methylation:T15 Theme:T6 Site:T16
+E3	DNA_methylation:T17 Theme:T9
+M1	Negation E3
+E4	DNA_methylation:T18 Theme:T9
+E5	DNA_methylation:T19 Theme:T10
+E6	DNA_methylation:T20 Theme:T11
+E7	DNA_methylation:T21 Theme:T13

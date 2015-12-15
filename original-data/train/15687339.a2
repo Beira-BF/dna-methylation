@@ -1,0 +1,4 @@
+T21	DNA_methylation 1228 1238	methylated
+T22	DNA_methylation 1490 1501	methylation
+E1	DNA_methylation:T21 Theme:T16
+E2	DNA_methylation:T22 Theme:T19

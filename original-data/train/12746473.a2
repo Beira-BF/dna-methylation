@@ -1,0 +1,30 @@
+T25	DNA_methylation 675 686	methylation
+T26	DNA_methylation 911 921	methylated
+T27	DNA_methylation 976 987	methylation
+T28	DNA_methylation 1134 1145	methylation
+T29	DNA_methylation 1229 1240	methylation
+T30	DNA_methylation 1383 1394	methylation
+E1	DNA_methylation:T25 Theme:T12
+E2	DNA_methylation:T25 Theme:T1
+E3	DNA_methylation:T25 Theme:T8
+E4	DNA_methylation:T25 Theme:T9
+E5	DNA_methylation:T25 Theme:T11
+E6	DNA_methylation:T25 Theme:T4
+E7	DNA_methylation:T25 Theme:T3
+E8	DNA_methylation:T25 Theme:T7
+E9	DNA_methylation:T25 Theme:T6
+E10	DNA_methylation:T25 Theme:T10
+E11	DNA_methylation:T25 Theme:T2
+E12	DNA_methylation:T25 Theme:T5
+E13	DNA_methylation:T26 Theme:T13
+E14	DNA_methylation:T26 Theme:T14
+E15	DNA_methylation:T27 Theme:T15
+E16	DNA_methylation:T27 Theme:T17
+E17	DNA_methylation:T27 Theme:T16
+E18	DNA_methylation:T28 Theme:T18
+E19	DNA_methylation:T29 Theme:T19
+E20	DNA_methylation:T29 Theme:T20
+E21	DNA_methylation:T30 Theme:T22
+E22	DNA_methylation:T30 Theme:T21
+E23	DNA_methylation:T30 Theme:T24
+E24	DNA_methylation:T30 Theme:T23

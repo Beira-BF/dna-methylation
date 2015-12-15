@@ -1,0 +1,24 @@
+T24	Entity 0 12	APC promoter
+T25	DNA_methylation 13 29	hypermethylation
+T26	DNA_methylation 401 424	epigenetic modification
+T27	Entity 432 444	APC promoter
+T28	DNA_methylation 509 520	methylation
+T29	DNA_methylation 698 709	methylation
+T30	Entity 724 736	APC promoter
+T31	Entity 1131 1143	APC promoter
+T32	DNA_methylation 1144 1155	methylation
+T33	DNA_methylation 1370 1381	methylation
+T34	DNA_methylation 1684 1699	hypermethylated
+T35	DNA_methylation 1806 1821	hypermethylated
+T36	Entity 1829 1841	APC promoter
+T37	Entity 1928 1940	APC promoter
+T38	DNA_methylation 1941 1952	methylation
+E1	DNA_methylation:T25 Theme:T1 Site:T24
+E2	DNA_methylation:T26 Theme:T5 Site:T27
+E3	DNA_methylation:T28 Theme:T7
+E4	DNA_methylation:T29 Theme:T10 Site:T30
+E5	DNA_methylation:T32 Theme:T14 Site:T31
+E6	DNA_methylation:T33 Theme:T15
+E7	DNA_methylation:T34 Theme:T17
+E8	DNA_methylation:T35 Theme:T19 Site:T36
+E9	DNA_methylation:T38 Theme:T21 Site:T37

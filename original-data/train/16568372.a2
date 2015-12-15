@@ -1,0 +1,12 @@
+*	Equiv T3 T2
+T9	DNA_methylation 34 45	methylation
+T10	DNA_methylation 210 221	methylation
+T11	Entity 415 423	Promoter
+T12	DNA_methylation 424 435	methylation
+T13	DNA_methylation 948 959	methylation
+T14	DNA_methylation 1452 1463	methylation
+E1	DNA_methylation:T9 Theme:T1
+E2	DNA_methylation:T10 Theme:T3
+E3	DNA_methylation:T12 Theme:T3 Site:T11
+E4	DNA_methylation:T13 Theme:T7
+E5	DNA_methylation:T14 Theme:T8

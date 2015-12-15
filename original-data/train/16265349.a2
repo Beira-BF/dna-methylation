@@ -1,0 +1,15 @@
+T7	Entity 54 64	CpG island
+T8	DNA_methylation 65 81	hypermethylation
+T9	DNA_methylation 1023 1034	methylation
+T10	DNA_methylation 1511 1527	hypermethylation
+T11	Entity 1537 1561	transcription start site
+T12	DNA_methylation 1581 1597	Hypermethylation
+T13	Entity 1634 1637	5'-
+T14	Entity 1642 1662	3'- furthest regions
+T15	Entity 1748 1772	transcription start site
+E1	DNA_methylation:T8 Theme:T1 Site:T7
+E2	DNA_methylation:T9 Theme:T4
+E3	DNA_methylation:T10 Theme:T5 Site:T11
+E4	DNA_methylation:T12 Theme:T6 Site:T13
+E5	DNA_methylation:T12 Theme:T6 Site:T15
+E6	DNA_methylation:T12 Theme:T6 Site:T14

@@ -1,0 +1,19 @@
+*	Equiv T28 T27
+*	Equiv T6 T5
+*	Equiv T32 T31
+*	Equiv T8 T7
+*	Equiv T20 T19
+*	Equiv T17 T16
+*	Equiv T22 T21
+*	Equiv T30 T29
+*	Equiv T26 T25
+*	Equiv T15 T14
+T40	Entity 699 707	Promoter
+T41	DNA_methylation 708 719	methylation
+T42	Entity 796 804	promoter
+T43	DNA_methylation 805 816	methylation
+T44	DNA_methylation 1078 1088	methylated
+E1	DNA_methylation:T41 Theme:T20 Site:T40
+E2	DNA_methylation:T43 Theme:T22 Site:T42
+E3	DNA_methylation:T44 Theme:T32
+E4	DNA_methylation:T44 Theme:T30

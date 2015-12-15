@@ -1,0 +1,39 @@
+T34	DNA_methylation 616 627	methylation
+T35	DNA_methylation 974 985	Methylation
+T36	DNA_methylation 1200 1211	methylation
+T37	DNA_methylation 1213 1224	Methylation
+T38	DNA_methylation 1292 1303	Methylation
+T39	DNA_methylation 1354 1365	methylation
+E1	DNA_methylation:T34 Theme:T15
+E2	DNA_methylation:T34 Theme:T13
+E3	DNA_methylation:T34 Theme:T8
+E4	DNA_methylation:T34 Theme:T9
+E5	DNA_methylation:T34 Theme:T11
+E6	DNA_methylation:T34 Theme:T4
+E7	DNA_methylation:T34 Theme:T7
+E8	DNA_methylation:T34 Theme:T6
+E9	DNA_methylation:T34 Theme:T2
+E10	DNA_methylation:T34 Theme:T12
+E11	DNA_methylation:T34 Theme:T1
+E12	DNA_methylation:T34 Theme:T14
+E13	DNA_methylation:T34 Theme:T3
+E14	DNA_methylation:T34 Theme:T10
+E15	DNA_methylation:T34 Theme:T5
+E16	DNA_methylation:T34 Theme:T16
+E17	DNA_methylation:T35 Theme:T22
+E18	DNA_methylation:T35 Theme:T21
+E19	DNA_methylation:T35 Theme:T24
+E20	DNA_methylation:T35 Theme:T17
+E21	DNA_methylation:T35 Theme:T18
+E22	DNA_methylation:T35 Theme:T28
+E23	DNA_methylation:T35 Theme:T23
+E24	DNA_methylation:T35 Theme:T20
+E25	DNA_methylation:T35 Theme:T27
+E26	DNA_methylation:T35 Theme:T25
+E27	DNA_methylation:T35 Theme:T26
+E28	DNA_methylation:T35 Theme:T19
+E29	DNA_methylation:T36 Theme:T30
+E30	DNA_methylation:T36 Theme:T29
+E31	DNA_methylation:T37 Theme:T31
+E32	DNA_methylation:T38 Theme:T32
+E33	DNA_methylation:T39 Theme:T33

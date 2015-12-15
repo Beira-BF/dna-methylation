@@ -1,0 +1,10 @@
+*	Equiv T3 T2
+T11	DNA_methylation 893 909	hypermethylation
+T12	DNA_methylation 1169 1180	methylation
+T13	Entity 1454 1464	CpG island
+T14	DNA_methylation 1465 1481	hypermethylation
+T15	DNA_methylation 1580 1596	hypermethylation
+E1	DNA_methylation:T11 Theme:T4
+E2	DNA_methylation:T12 Theme:T7
+E3	DNA_methylation:T14 Theme:T8 Site:T13
+E4	DNA_methylation:T15 Theme:T9

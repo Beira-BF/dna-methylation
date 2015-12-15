@@ -1,0 +1,23 @@
+T23	DNA_methylation 15 31	hypermethylation
+T24	DNA_methylation 270 286	hypermethylation
+T25	DNA_methylation 460 471	methylation
+T26	DNA_methylation 785 801	hypermethylation
+T27	DNA_methylation 837 848	methylation
+T28	DNA_methylation 924 934	methylated
+T29	Phosphorylation 983 998	phosphorylation
+T30	DNA_demethylation 1048 1061	demethylation
+T31	DNA_methylation 1416 1427	methylation
+T32	DNA_methylation 1447 1458	methylation
+E1	DNA_methylation:T23 Theme:T1
+E2	DNA_methylation:T23 Theme:T2
+E3	DNA_methylation:T24 Theme:T6
+E4	DNA_methylation:T24 Theme:T5
+E5	DNA_methylation:T25 Theme:T8
+E6	DNA_methylation:T25 Theme:T7
+E7	DNA_methylation:T26 Theme:T12
+E8	DNA_methylation:T27 Theme:T13
+E9	DNA_methylation:T28 Theme:T14
+E10	Phosphorylation:T29 Theme:T15
+E11	DNA_demethylation:T30 Theme:T16
+E12	DNA_methylation:T31 Theme:T21
+E13	DNA_methylation:T32 Theme:T22

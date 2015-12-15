@@ -1,0 +1,18 @@
+T16	Entity 264 283	promoter CpG island
+T17	DNA_methylation 322 332	methylated
+T18	Entity 350 358	promoter
+T19	DNA_methylation 359 374	DNA methylation
+T20	DNA_demethylation 556 569	demethylation
+T21	DNA_methylation 626 637	methylation
+T22	DNA_methylation 880 891	methylation
+T23	DNA_methylation 942 953	methylation
+T24	DNA_methylation 1087 1098	methylation
+E1	DNA_methylation:T17 Theme:T5 Site:T16
+E2	DNA_methylation:T17 Theme:T6 Site:T16
+M1	Negation E2
+E3	DNA_methylation:T19 Theme:T7 Site:T18
+E4	DNA_demethylation:T20 Theme:T8
+E5	DNA_methylation:T21 Theme:T9
+E6	DNA_methylation:T22 Theme:T10
+E7	DNA_methylation:T23 Theme:T11
+E8	DNA_methylation:T24 Theme:T12

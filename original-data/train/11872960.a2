@@ -1,0 +1,33 @@
+*	Equiv T6 T5
+*	Equiv T4 T3
+T20	DNA_methylation 364 379	hypermethylated
+T21	DNA_methylation 418 429	methylation
+T22	Entity 433 444	CpG islands
+T23	DNA_methylation 550 561	methylation
+T24	Entity 758 768	CpG island
+T25	DNA_methylation 769 785	hypermethylation
+T26	Entity 1088 1096	promoter
+T27	DNA_methylation 1097 1113	hypermethylation
+T28	Entity 1141 1149	promoter
+T29	DNA_methylation 1150 1166	hypermethylation
+T30	DNA_methylation 1188 1204	Hypermethylation
+T31	Entity 1218 1226	promoter
+T32	Entity 1244 1252	promoter
+T33	Entity 1572 1580	promoter
+T34	DNA_methylation 1581 1597	hypermethylation
+E1	DNA_methylation:T20 Theme:T4
+E2	DNA_methylation:T20 Theme:T6
+E3	DNA_methylation:T21 Theme:T8 Site:T22
+E4	DNA_methylation:T21 Theme:T7 Site:T22
+E5	DNA_methylation:T23 Theme:T10
+M1	Speculation E5
+E6	DNA_methylation:T23 Theme:T9
+M2	Speculation E6
+E7	DNA_methylation:T25 Theme:T13 Site:T24
+E8	DNA_methylation:T25 Theme:T12 Site:T24
+E9	DNA_methylation:T27 Theme:T14 Site:T26
+E10	DNA_methylation:T29 Theme:T15 Site:T28
+E11	DNA_methylation:T30 Theme:T17 Site:T32
+M3	Negation E11
+E12	DNA_methylation:T30 Theme:T16 Site:T31
+E13	DNA_methylation:T34 Theme:T19 Site:T33

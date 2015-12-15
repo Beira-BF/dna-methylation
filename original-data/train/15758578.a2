@@ -1,0 +1,38 @@
+*	Equiv T7 T6
+T25	Entity 644 652	promoter
+T26	DNA_methylation 653 664	methylation
+T27	Entity 1311 1327	promoter regions
+T28	DNA_methylation 1346 1357	methylation
+T29	DNA_methylation 1508 1519	methylation
+T30	DNA_methylation 1688 1699	Methylation
+T31	DNA_methylation 1940 1951	methylation
+T32	DNA_methylation 2150 2171	epigenetic alteration
+T33	Entity 2212 2220	promoter
+E1	DNA_methylation:T26 Theme:T1 Site:T25
+E2	DNA_methylation:T26 Theme:T9 Site:T25
+E3	DNA_methylation:T26 Theme:T10 Site:T25
+E4	DNA_methylation:T26 Theme:T4 Site:T25
+E5	DNA_methylation:T26 Theme:T3 Site:T25
+E6	DNA_methylation:T26 Theme:T8 Site:T25
+E7	DNA_methylation:T26 Theme:T7 Site:T25
+E8	DNA_methylation:T26 Theme:T2 Site:T25
+E9	DNA_methylation:T26 Theme:T5 Site:T25
+E10	DNA_methylation:T28 Theme:T13 Site:T27
+M1	Negation E10
+E11	DNA_methylation:T28 Theme:T14 Site:T27
+M2	Negation E11
+E12	DNA_methylation:T28 Theme:T15 Site:T27
+M3	Negation E12
+E13	DNA_methylation:T28 Theme:T12 Site:T27
+M4	Negation E13
+E14	DNA_methylation:T28 Theme:T11 Site:T27
+M5	Negation E14
+E15	DNA_methylation:T29 Theme:T16
+E16	DNA_methylation:T29 Theme:T18
+E17	DNA_methylation:T29 Theme:T19
+E18	DNA_methylation:T29 Theme:T17
+E19	DNA_methylation:T30 Theme:T20
+E20	DNA_methylation:T30 Theme:T21
+E21	DNA_methylation:T31 Theme:T23
+E22	DNA_methylation:T31 Theme:T22
+E23	DNA_methylation:T32 Theme:T24 Site:T33

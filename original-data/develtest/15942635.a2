@@ -1,0 +1,34 @@
+T20	Entity 509 517	Promoter
+T21	DNA_methylation 518 534	hypermethylation
+T22	DNA_methylation 724 735	methylation
+T23	DNA_methylation 944 954	methylated
+T24	DNA_methylation 1250 1261	methylation
+E1	DNA_methylation:T21 Theme:T1 Site:T20
+M1	Speculation E1
+E2	DNA_methylation:T21 Theme:T8 Site:T20
+M2	Speculation E2
+E3	DNA_methylation:T21 Theme:T9 Site:T20
+M3	Speculation E3
+E4	DNA_methylation:T21 Theme:T4 Site:T20
+M4	Speculation E4
+E5	DNA_methylation:T21 Theme:T3 Site:T20
+M5	Speculation E5
+E6	DNA_methylation:T21 Theme:T7 Site:T20
+M6	Speculation E6
+E7	DNA_methylation:T21 Theme:T6 Site:T20
+M7	Speculation E7
+E8	DNA_methylation:T21 Theme:T10 Site:T20
+M8	Speculation E8
+E9	DNA_methylation:T21 Theme:T2 Site:T20
+M9	Speculation E9
+E10	DNA_methylation:T21 Theme:T5 Site:T20
+M10	Speculation E10
+E11	DNA_methylation:T22 Theme:T12
+E12	DNA_methylation:T22 Theme:T13
+E13	DNA_methylation:T22 Theme:T14
+E14	DNA_methylation:T22 Theme:T11
+E15	DNA_methylation:T23 Theme:T15
+E16	DNA_methylation:T23 Theme:T17
+E17	DNA_methylation:T23 Theme:T16
+E18	DNA_methylation:T24 Theme:T18
+E19	DNA_methylation:T24 Theme:T19

@@ -1,0 +1,2 @@
+Gene silencing and DNA methylation processes. 
+Epigenetic gene silencing results from the inhibition of transcription or from posttranscriptional RNA degradation. DNA methylation is one of the most central and frequently discussed elements of gene silencing in both plants and mammals. Because DNA methylation has not been detected in yeast, Drosophila or Caenorhabditis elegans, the standard genetic workhorses, plants are important models for revealing the role of DNA methylation in the epigenetic regulation of genes in vivo. 

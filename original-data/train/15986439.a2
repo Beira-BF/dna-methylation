@@ -1,0 +1,39 @@
+*	Equiv T3 T2
+T25	Entity 45 53	promoter
+T26	DNA_methylation 54 70	hypermethylation
+T27	DNA_methylation 210 226	hypermethylation
+T28	DNA_methylation 320 336	hypermethylation
+T29	DNA_methylation 443 459	hypermethylation
+T30	DNA_methylation 629 645	hypermethylation
+T31	DNA_methylation 842 858	hypermethylation
+T32	DNA_methylation 956 972	hypermethylation
+T33	DNA_methylation 1097 1113	hypermethylation
+T34	DNA_methylation 1144 1160	hypermethylation
+T35	DNA_methylation 1329 1345	hypermethylation
+T36	DNA_methylation 1556 1572	hypermethylation
+T37	DNA_methylation 1606 1622	hypermethylation
+T38	DNA_methylation 1813 1829	hypermethylation
+T39	Acetylation 1866 1876	acetylated
+T40	DNA_methylation 2018 2034	hypermethylation
+T41	DNA_methylation 2076 2092	hypermethylation
+T42	DNA_methylation 2224 2240	hypermethylation
+T43	DNA_methylation 2384 2400	hypermethylation
+E1	DNA_methylation:T26 Theme:T1 Site:T25
+E2	DNA_methylation:T27 Theme:T3
+E3	DNA_methylation:T28 Theme:T4
+E4	DNA_methylation:T29 Theme:T5
+E5	DNA_methylation:T30 Theme:T6
+E6	DNA_methylation:T31 Theme:T8
+E7	DNA_methylation:T32 Theme:T9
+E8	DNA_methylation:T33 Theme:T10
+E9	DNA_methylation:T34 Theme:T11
+E10	DNA_methylation:T35 Theme:T12
+E11	DNA_methylation:T36 Theme:T13
+E12	DNA_methylation:T37 Theme:T14
+E13	DNA_methylation:T38 Theme:T17
+E14	Acetylation:T39 Theme:T19
+E15	Acetylation:T39 Theme:T18
+E16	DNA_methylation:T40 Theme:T20
+E17	DNA_methylation:T41 Theme:T22
+E18	DNA_methylation:T42 Theme:T23
+E19	DNA_methylation:T43 Theme:T24

@@ -1,0 +1,19 @@
+T12	DNA_methylation 0 16	Hypermethylation
+T13	DNA_methylation 671 691	DNA hypermethylation
+T14	DNA_methylation 911 927	hypermethylation
+T15	DNA_methylation 1057 1073	hypermethylation
+T16	DNA_methylation 1274 1289	hypermethylated
+T17	DNA_methylation 1438 1453	hypermethylated
+T18	DNA_methylation 1527 1543	hypermethylation
+E1	DNA_methylation:T12 Theme:T1
+E2	DNA_methylation:T12 Theme:T3
+E3	DNA_methylation:T12 Theme:T2
+E4	DNA_methylation:T13 Theme:T4
+E5	DNA_methylation:T13 Theme:T6
+E6	DNA_methylation:T13 Theme:T5
+E7	DNA_methylation:T14 Theme:T7
+E8	DNA_methylation:T15 Theme:T8
+E9	DNA_methylation:T16 Theme:T9
+E10	DNA_methylation:T17 Theme:T10
+M1	Negation E10
+E11	DNA_methylation:T18 Theme:T11

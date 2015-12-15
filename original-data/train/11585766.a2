@@ -1,0 +1,27 @@
+T20	DNA_methylation 950 965	hypermethylated
+T21	Entity 1088 1096	promoter
+T22	DNA_methylation 1097 1108	methylation
+T23	DNA_methylation 1197 1208	methylation
+T24	DNA_methylation 1353 1364	methylation
+T25	DNA_methylation 1476 1496	epigenetic silencing
+T26	DNA_methylation 1586 1597	methylation
+T27	DNA_methylation 1653 1664	methylation
+T28	DNA_methylation 1755 1766	methylation
+T29	DNA_methylation 1945 1965	epigenetic silencing
+T30	DNA_methylation 2056 2067	methylation
+T31	DNA_methylation 2154 2165	methylation
+T32	DNA_methylation 2221 2232	methylation
+T33	DNA_methylation 2576 2599	epigenetic inactivation
+E1	DNA_methylation:T20 Theme:T2
+E2	DNA_methylation:T22 Theme:T4 Site:T21
+E3	DNA_methylation:T23 Theme:T5
+E4	DNA_methylation:T24 Theme:T7
+E5	DNA_methylation:T25 Theme:T8
+E6	DNA_methylation:T26 Theme:T9
+E7	DNA_methylation:T27 Theme:T10
+E8	DNA_methylation:T28 Theme:T11
+E9	DNA_methylation:T29 Theme:T13
+E10	DNA_methylation:T30 Theme:T14
+E11	DNA_methylation:T31 Theme:T15
+E12	DNA_methylation:T32 Theme:T16
+E13	DNA_methylation:T33 Theme:T19

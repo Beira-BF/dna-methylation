@@ -1,0 +1,6 @@
+T24	DNA_methylation 1053 1069	Hypermethylation
+T25	Entity 1086 1101	promoter region
+T26	DNA_methylation 1314 1330	hypermethylation
+T27	Entity 1347 1362	promoter region
+E1	DNA_methylation:T24 Theme:T10 Site:T25
+E2	DNA_methylation:T26 Theme:T12 Site:T27

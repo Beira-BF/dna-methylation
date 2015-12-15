@@ -1,0 +1,22 @@
+*	Equiv T31 T30
+*	Equiv T7 T6
+*	Equiv T21 T20
+T36	DNA_methylation 464 479	DNA methylation
+T37	DNA_methylation 780 795	DNA methylation
+T38	DNA_methylation 1053 1068	DNA methylation
+T39	DNA_methylation 1221 1231	methylated
+T40	DNA_methylation 1463 1478	DNA methylation
+E1	DNA_methylation:T36 Theme:T4
+E2	DNA_methylation:T36 Theme:T8
+E3	DNA_methylation:T36 Theme:T7
+E4	DNA_methylation:T36 Theme:T5
+E5	DNA_methylation:T36 Theme:T9
+E6	DNA_methylation:T37 Theme:T21
+E7	DNA_methylation:T37 Theme:T22
+E8	DNA_methylation:T37 Theme:T19
+E9	DNA_methylation:T37 Theme:T18
+E10	DNA_methylation:T37 Theme:T23
+E11	DNA_methylation:T38 Theme:T24
+E12	DNA_methylation:T39 Theme:T27
+E13	DNA_methylation:T40 Theme:T34
+E14	DNA_methylation:T40 Theme:T35

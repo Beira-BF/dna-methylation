@@ -1,0 +1,23 @@
+T20	DNA_methylation 430 441	methylation
+T21	Entity 456 472	promoter regions
+T22	DNA_methylation 571 582	methylation
+T23	DNA_methylation 838 849	methylation
+T24	DNA_methylation 869 880	Methylation
+T25	DNA_methylation 996 1006	methylated
+T26	Entity 1167 1182	promoter region
+T27	DNA_methylation 1311 1322	Methylation
+T28	Entity 1356 1365	promoters
+E1	DNA_methylation:T20 Theme:T1 Site:T21
+E2	DNA_methylation:T20 Theme:T3 Site:T21
+E3	DNA_methylation:T20 Theme:T2 Site:T21
+E4	DNA_methylation:T22 Theme:T4
+E5	DNA_methylation:T22 Theme:T6
+E6	DNA_methylation:T22 Theme:T5
+E7	DNA_methylation:T23 Theme:T8
+E8	DNA_methylation:T23 Theme:T7
+E9	DNA_methylation:T24 Theme:T9
+E10	DNA_methylation:T24 Theme:T11
+E11	DNA_methylation:T24 Theme:T10
+E12	DNA_methylation:T25 Theme:T12
+E13	DNA_methylation:T27 Theme:T16 Site:T28
+E14	DNA_methylation:T27 Theme:T17 Site:T28

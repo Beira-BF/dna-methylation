@@ -1,0 +1,4 @@
+T12	DNA_methylation 1016 1036	DNA hypermethylation
+E1	DNA_methylation:T12 Theme:T5
+E2	DNA_methylation:T12 Theme:T7
+E3	DNA_methylation:T12 Theme:T6

@@ -1,0 +1,16 @@
+*	Equiv T5 T4
+*	Equiv T2 T1
+*	Equiv T23 T22
+T25	DNA_demethylation 619 632	demethylation
+T26	Entity 640 650	CpG island
+T27	Acetylation 1267 1277	acetylated
+T28	Methylation 1312 1322	methylated
+T29	Entity 1326 1328	K9
+T30	Entity 1581 1589	promoter
+T31	DNA_methylation 1594 1610	hypermethylation
+E1	DNA_demethylation:T25 Theme:T10 Site:T26
+M1	Negation E1
+E2	Acetylation:T27 Theme:T19
+E3	Acetylation:T27 Theme:T20
+E4	Methylation:T28 Theme:T21 Site:T29
+E5	DNA_methylation:T31 Theme:T24 Site:T30

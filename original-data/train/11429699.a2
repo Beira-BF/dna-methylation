@@ -1,0 +1,24 @@
+*	Equiv T3 T2
+T10	Entity 0 40	Adenomatous polyposis coli gene promoter
+T11	DNA_methylation 41 57	hypermethylation
+T12	DNA_methylation 334 350	hypermethylation
+T13	Entity 358 404	adenomatous polyposis coli (APC) gene promoter
+T14	Entity 527 542	APC promoter 1A
+T15	DNA_methylation 543 554	methylation
+T16	Entity 752 764	APC promoter
+T17	DNA_methylation 765 776	methylation
+T18	Entity 976 988	APC promoter
+T19	DNA_methylation 989 1000	methylation
+T20	DNA_methylation 1255 1266	methylation
+T21	Entity 1411 1428	APC gene promoter
+T22	DNA_methylation 1429 1440	methylation
+T23	Entity 1488 1500	APC promoter
+T24	DNA_methylation 1501 1512	methylation
+E1	DNA_methylation:T11 Theme:T1 Site:T10
+E2	DNA_methylation:T12 Theme:T3 Site:T13
+E3	DNA_methylation:T15 Theme:T4 Site:T14
+E4	DNA_methylation:T17 Theme:T5 Site:T16
+E5	DNA_methylation:T19 Theme:T6 Site:T18
+E6	DNA_methylation:T20 Theme:T7
+E7	DNA_methylation:T22 Theme:T8 Site:T21
+E8	DNA_methylation:T24 Theme:T9 Site:T23

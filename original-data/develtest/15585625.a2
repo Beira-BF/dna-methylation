@@ -1,0 +1,28 @@
+T18	DNA_methylation 164 175	methylation
+T19	DNA_methylation 416 427	methylation
+T20	DNA_methylation 803 814	methylation
+T21	Entity 919 928	CpG sites
+T22	DNA_methylation 936 947	methylation
+T23	Entity 1085 1093	promoter
+T24	DNA_methylation 1094 1105	methylation
+T25	DNA_methylation 1187 1199	unmethylated
+T26	Entity 1302 1310	promoter
+T27	DNA_methylation 1311 1327	hypermethylation
+T28	DNA_methylation 1387 1398	methylation
+T29	DNA_methylation 1568 1586	epigenetic changes
+E1	DNA_methylation:T18 Theme:T1
+E2	DNA_methylation:T18 Theme:T3
+E3	DNA_methylation:T18 Theme:T2
+E4	DNA_methylation:T19 Theme:T4
+E5	DNA_methylation:T19 Theme:T5
+E6	DNA_methylation:T20 Theme:T8
+E7	DNA_methylation:T22 Theme:T9 Site:T21
+E8	DNA_methylation:T24 Theme:T10 Site:T23
+E9	DNA_methylation:T24 Theme:T11 Site:T23
+E10	DNA_methylation:T25 Theme:T12
+M1	Negation E10
+E11	DNA_methylation:T27 Theme:T13 Site:T26
+E12	DNA_methylation:T28 Theme:T14
+E13	DNA_methylation:T28 Theme:T15
+E14	DNA_methylation:T29 Theme:T17
+E15	DNA_methylation:T29 Theme:T16

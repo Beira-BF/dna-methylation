@@ -1,0 +1,14 @@
+T14	DNA_methylation 19 35	hypermethylation
+T15	DNA_methylation 91 107	Hypermethylation
+T16	DNA_methylation 464 475	methylation
+T17	DNA_methylation 577 593	hypermethylation
+T18	DNA_methylation 972 988	hypermethylation
+T19	DNA_methylation 1030 1046	hypermethylation
+T20	DNA_methylation 1148 1159	methylation
+E1	DNA_methylation:T14 Theme:T1
+E2	DNA_methylation:T15 Theme:T3
+E3	DNA_methylation:T16 Theme:T8
+E4	DNA_methylation:T17 Theme:T9
+E5	DNA_methylation:T18 Theme:T11
+E6	DNA_methylation:T19 Theme:T12
+E7	DNA_methylation:T20 Theme:T13

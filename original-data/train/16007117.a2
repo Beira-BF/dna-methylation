@@ -1,0 +1,17 @@
+*	Equiv T3 T2
+T23	Entity 488 496	promoter
+T24	DNA_methylation 497 513	hypermethylation
+T25	DNA_methylation 648 659	methylation
+T26	Entity 1472 1482	CpG island
+T27	DNA_methylation 1483 1499	hypermethylation
+T28	Entity 1884 1892	cytosine
+T29	DNA_methylation 1893 1904	methylation
+T30	Entity 2459 2467	promoter
+T31	DNA_methylation 2468 2484	hypermethylation
+T32	DNA_methylation 2671 2680	silencing
+E1	DNA_methylation:T24 Theme:T5 Site:T23
+E2	DNA_methylation:T25 Theme:T6
+E3	DNA_methylation:T27 Theme:T12 Site:T26
+E4	DNA_methylation:T29 Theme:T16 Site:T28
+E5	DNA_methylation:T31 Theme:T21 Site:T30
+E6	DNA_methylation:T32 Theme:T22

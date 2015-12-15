@@ -1,0 +1,20 @@
+T11	DNA_methylation 9 24	DNA methylation
+T12	DNA_methylation 362 373	methylation
+T13	DNA_methylation 495 506	Methylation
+T14	Entity 538 562	transcription start site
+T15	DNA_methylation 905 916	methylation
+T16	DNA_methylation 1011 1021	methylated
+T17	Acetylation 1034 1045	Acetylation
+T18	Entity 1067 1076	5' region
+T19	DNA_methylation 1253 1264	methylation
+T20	DNA_methylation 1459 1474	DNA methylation
+T21	Entity 1482 1495	5' CpG island
+E1	DNA_methylation:T11 Theme:T1
+E2	DNA_methylation:T12 Theme:T4
+M1	Speculation E2
+E3	DNA_methylation:T13 Theme:T5 Site:T14
+E4	DNA_methylation:T15 Theme:T6
+E5	DNA_methylation:T16 Theme:T7
+E6	Acetylation:T17 Theme:T8 Site:T18
+E7	DNA_methylation:T19 Theme:T9
+E8	DNA_methylation:T20 Theme:T10 Site:T21

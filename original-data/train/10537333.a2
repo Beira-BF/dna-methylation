@@ -1,0 +1,18 @@
+T45	DNA_methylation 636 652	hypermethylation
+T46	Entity 877 885	promoter
+T47	DNA_methylation 886 897	methylation
+T48	DNA_methylation 1012 1024	methylations
+T49	DNA_methylation 1084 1096	methylations
+T50	DNA_methylation 1138 1149	methylation
+T51	DNA_methylation 1921 1937	hypermethylation
+E1	DNA_methylation:T45 Theme:T12
+E2	DNA_methylation:T45 Theme:T14
+E3	DNA_methylation:T45 Theme:T13
+E4	DNA_methylation:T47 Theme:T15 Site:T46
+E5	DNA_methylation:T47 Theme:T17 Site:T46
+E6	DNA_methylation:T47 Theme:T16 Site:T46
+E7	DNA_methylation:T48 Theme:T18
+E8	DNA_methylation:T49 Theme:T19
+E9	DNA_methylation:T49 Theme:T20
+E10	DNA_methylation:T50 Theme:T21
+E11	DNA_methylation:T51 Theme:T40
